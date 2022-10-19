@@ -1,6 +1,8 @@
-# PWA - PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS II
+# Programação para Dispositivos Móveis II
 
--   [Swift](https://developer.apple.com/swift/)
+## Technologies
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="64" height="64" />](https://developer.apple.com/swift/)
 
 ## License
 
